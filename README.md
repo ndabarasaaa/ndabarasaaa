@@ -8,10 +8,9 @@ Building @ubuops | @mcstudio
 
 *   🌍  I'm based in Rwanda | Kigali
 *   ✉️  You can contact me at [moise@mcstudio.rw](mailto:moise@mcstudio.rw)
-*   🚀  I'm currently working on [UbuOps](http://ubu.rw)<a href="https://www.github.com/Ux-beast" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Ux-beast?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.x.com/ndabarasaaa" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/ndabarasaaa?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
-                /></a>
+*   🚀  I'm currently working on [UbuOps](http://ubu.rw)<a href="https://www.github.com/Ux-beast" target="_blank" rel="noreferrer">
+
+<img src="https://img.shields.io/github/followers/Ux-beast?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.x.com/ndabarasaaa" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/twitter/follow/ndabarasaaa?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"/></a>
 
   ### Skills 
 <p align="left">

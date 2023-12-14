@@ -9,7 +9,7 @@ Building @ubuops | @mcstudio
 *   🌍  I'm based in Kigali,Rwanda
 *   ✉️  You can contact me at [moise@mcstudio.rw](mailto:moise@mcstudio.rw)
 *   🖥️  See my Business at [mcstudio.rw](http://mcstudio.rw)
-*   🚀  I'm currently working on my  2nd startup [UbuOps: Connect organizations with trusted vendors](http://ubu.rw)<a href="https://www.github.com/Ux-beast" target="_blank" rel="noreferrer">
+*   🚀  I'm currently working on my  2nd startup (Connecting organizations with trusted vendors) [UbuOps](http://ubu.rw)<a href="https://www.github.com/Ux-beast" target="_blank" rel="noreferrer">
 
 <img src="https://img.shields.io/github/followers/Ux-beast?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a> <a href="https://www.x.com/ndabarasaaa" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/twitter/follow/ndabarasaaa?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"/></a>
 

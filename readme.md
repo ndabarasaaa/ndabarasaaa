@@ -15,7 +15,7 @@ Building @ubuops | @mcstudio
 
 ### Find My Merch here
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ndabarasaaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<a href="https://www.buymeacoffee.com/ndabarasaaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 
 ### Skills

@@ -13,7 +13,7 @@ Building @ubuops | @mcstudio
 
 <img src="https://img.shields.io/github/followers/Ux-beast?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a> <a href="https://www.x.com/ndabarasaaa" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/twitter/follow/ndabarasaaa?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"/></a>
 
-### Merch comming soon... | Support my brand here: &#x2B0E;
+### Merch comming soon... | Support my brand here: &#x2935;
 
 <a href="https://www.buymeacoffee.com/ndabarasaaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 

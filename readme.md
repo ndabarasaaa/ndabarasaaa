@@ -6,14 +6,14 @@ Product Engineer
 
 Building @ubuops | @mcstudio
 
-*   🌍  I'm based in Kigali,Rwanda
-*   ✉️  You can contact me at [moise@mcstudio.rw](mailto:moise@mcstudio.rw)
+*   🌍  I'm based in Kigali, Rwanda
+*   ✉️  For Business contact me at [moise@mcstudio.rw](mailto:moise@mcstudio.rw)
 *   🖥️  See my Business at [mcstudio.rw](http://mcstudio.rw)
 *   🚀  I'm currently working on my  2nd  B2B startup (Connecting organizations with trusted vendors) [UbuOps](http://ubu.rw)<a href="https://www.github.com/Ux-beast" target="_blank" rel="noreferrer">
 
 <img src="https://img.shields.io/github/followers/Ux-beast?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a> <a href="https://www.x.com/ndabarasaaa" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/twitter/follow/ndabarasaaa?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"/></a>
 
-### Merch comming soon... | Support my brand here: &#x2935;
+### Merch coming soon... | Support my brand here:&#x2935;
 
 <a href="https://www.buymeacoffee.com/ndabarasaaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 

@@ -24,5 +24,4 @@ Building @ubuops | @mcstudio
 
 <a href="http://www.github.com/Ux-beast"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ux-beast&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Ux-beast" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ux-beast&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
                  

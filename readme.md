@@ -14,7 +14,7 @@ Building @ubuops | @mcstudio
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ux-beast"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ux-beast&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ndabarasa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndabarasa&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Skills
   

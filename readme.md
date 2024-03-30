@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Product Design Engineer
 -----------------------
 
-Building @mcstudio X @ubuops  
+  Building [@mcstudio](http://mcstudio.rw) X [@ubuops](http://ubu.rw)
 
 *   🌍  I'm based in Kigali, Rwanda
 *   ✉️  For Business contact me at [moise@mcstudio.rw](mailto:moise@mcstudio.rw)

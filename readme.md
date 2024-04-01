@@ -14,7 +14,7 @@ Product Design Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ndabarasaaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndabarasaaa&stroke=ffffff&background=26a641&ring=26a641&fire=#26a641&currStreakNum=ffffff&currStreakLabel=26a641&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ndabarasaaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndabarasaaa&stroke=ffffff&background=0000&ring=26a641&fire=#26a641&currStreakNum=ffffff&currStreakLabel=26a641&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Technologies & Tools
   

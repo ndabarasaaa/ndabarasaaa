@@ -9,7 +9,7 @@ Product Design Engineer
 *   🌍  I'm based in Kigali, Rwanda
 *   ✉️  For Business contact me at [moise@mcstudio.rw](mailto:moise@mcstudio.rw)
 *   🖥️  See my Business at [mcstudio.rw](http://mcstudio.rw)
-*   🚀  I'm currently working on my  2nd  B2B startup (Connecting organizations with trusted vendors) [UbuOps](http://ubu.rw)<a href="https://www.github.com/Ux-beast" target="_blank" rel="noreferrer">
+*   🚀  I'm currently working on my  2nd  B2B startup (Connecting organizations with trusted vendors) [UbuOps](https://ubuops.vercel.app/)<a href="https://www.github.com/Ux-beast" target="_blank" rel="noreferrer">
 
 
 <b>My GitHub Stats</b>

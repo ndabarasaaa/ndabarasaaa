@@ -4,8 +4,6 @@ Hi! My name is Moïse
 Product Design Engineer
 -----------------------
 
-  Building [@mcstudio](http://mcstudio.rw) X [@ubuops](http://ubu.rw)
-
 *   🌍  I'm based in Kigali, Rwanda
 *   ✉️  For Business contact me at [moise@mcstudio.rw](mailto:moise@mcstudio.rw)
 *   🖥️  Building at [mcstudio.rw](http://mcstudio.rw)
